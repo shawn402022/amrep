@@ -1,0 +1,64 @@
+#mainbx{
+    margin: auto;
+    width: 13%;
+    padding:10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:gray;
+    display: inline-block;
+    margin: 2px;
+    
+  }
+  
+  
+  #fgotlink{
+    color:blue
+  }
+  
+  #hlplink{
+    color:blue
+  }
+  
+  #newzon{
+    color:gray
+  }
+  
+  #xtrablue{
+    color:blue
+  }
+  
+  #cont{
+    background:orange;
+    border-style: solid;
+    border-width: 1px;
+    border-color:black;
+    
+     
+  }
+  
+  #createzon{
+    background:lightgray;
+    border-style: solid;
+    border-width: 1px;
+    border-color:black;
+  }
+  
+  
+  .div{
+  
+    display: flex;
+    text-align: center;
+    border: 2px;
+    color: black;
+    
+  }
+  
+  #signin{
+    order: 1;
+    position: ab
+  }
+  
+  .emailbox{
+    order 3;
+    
+  }
